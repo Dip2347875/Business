@@ -1,11 +1,14 @@
 {
- "cat_index": 1,
- "next_due": "2026-09-30T18:31:59.076647+00:00",
+ "cat_index": 2,
+ "next_due": "2026-09-30T23:20:09.702579+00:00",
  "seen": [
-  "355e3cf7a42559bf"
+  "355e3cf7a42559bf",
+  "7f6e6d4d6e182c8a"
  ],
  "titles": [
   "Private sector jobs rose by 90,000 in September, better than expected, ADP reports",
-  "US Private Sector Jobs Surge: 90,000 Added in September, ADP Reports"
+  "US Private Sector Jobs Surge: 90,000 Added in September, ADP Reports",
+  "OpenAI\u2019s Greg Brockman Backs Out of Second $25 Million Donation to A.I. Super PAC",
+  "Why Did Greg Brockman Withdraw $25M from AI Super PAC?"
  ]
 }
