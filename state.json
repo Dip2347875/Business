@@ -1,13 +1,14 @@
 {
- "cat_index": 6,
- "next_due": "2026-10-01T20:57:34.566068+00:00",
+ "cat_index": 0,
+ "next_due": "2026-10-02T00:45:44.468574+00:00",
  "seen": [
   "355e3cf7a42559bf",
   "7f6e6d4d6e182c8a",
   "2c3e09bcee7bd46b",
   "9213dc04b453f3e9",
   "e5e40a397a4959ae",
-  "8d667628419bab72"
+  "8d667628419bab72",
+  "f90634adce2d9fdc"
  ],
  "titles": [
   "Private sector jobs rose by 90,000 in September, better than expected, ADP reports",
@@ -21,6 +22,8 @@
   "Why Micron\u2019s Dazzling Earnings Report Isn\u2019t Budging the Stock",
   "Micron\u2019s Earnings Report: Why the Stock Isn\u2019t Moving",
   "Trump Says Inflation Could Pay Down the Debt \u2018Very Rapidly\u2019",
-  "Trump Claims Inflation Could Rapidly Reduce Debt: Fact or Fiction?"
+  "Trump Claims Inflation Could Rapidly Reduce Debt: Fact or Fiction?",
+  "Rising Yields Are Wreaking Havoc on Stocks Outside the AI Trade",
+  "Rising Yields vs. AI Stocks: A Business Opportunity Amid Market Turmoil"
  ]
 }
